@@ -1,0 +1,27 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f5045dbd-9f6a-e3fe-3917-31744274d477"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "How to Win at Texas Hold'em Poker",
+  "course_description": "Offered during MIT's Independent Activites Period (IAP), this short course covers the poker concepts, math concepts, and general concepts needed to play the game of Texas Hold'em on a professional level.\n\n[IAP is a special 4-week term in January](http://web.mit.edu/IAP/) that provides members of the MIT community including students, faculty, staff, and alums with an opportunity to organize, sponsor and participate in a wide variety of activities and topics that are often outside of the regular MIT curriculum.\n\n**Faculty Advisor:** Paul Mende\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.S50",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
